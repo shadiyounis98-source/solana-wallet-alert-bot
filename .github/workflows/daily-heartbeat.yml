@@ -12,13 +12,25 @@ jobs:
     steps:
       - name: Send Telegram heartbeat
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
+          set -e
+
+          if [ -z "$BOT_TOKEN" ]; then
+            echo "Missing TELEGRAM_BOT_TOKEN"
+            exit 1
+          fi
+
+          if [ -z "$CHAT_ID" ]; then
+            echo "Missing TELEGRAM_CHAT_ID"
+            exit 1
+          fi
+
           NOW="$(TZ=Asia/Aden date '+%Y-%m-%d %H:%M:%S')"
-          TEXT="✅ تنبيه يومي: بوت محفظة سولانا شغال. الفحص يعمل تلقائيًا كل 5 دقائق على GitHub. الوقت: ${NOW}"
+          MSG="✅ بوت محفظة سولانا شغال. الفحص يعمل كل 5 دقائق على GitHub. الوقت: ${NOW}"
 
-          curl -fsS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-            -d "chat_id=${TELEGRAM_CHAT_ID}" \
+          curl --fail-with-body -sS -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${CHAT_ID}" \
 
-            --data-urlencode "text=${TEXT}"
+            --data-urlencode "text=${MSG}"
