@@ -260,7 +260,9 @@
     "3XPzob6zwTYK9BpDPHfXb1a4CknjzVAPotFkyhqgdREprJnUuH2uaoeJWkuShM791g6o7wcWBDfyfqFTAzUUu4AY",
     "5GcMCFLjSVSRKm5x2XXnuUuhYf4TjzpbuHfcu4NBYMbp7gKFSw1w9DkfHCidyBvY4fw8RfUyfKHdyamBFcr88SMF",
     "CTx1eh8L13Qxc4gZHuyGkwkjZnyZjhhUPyw4QFwBPUV1A1AuYuaRNLwyQ5HsbS4m7gqQkAB4SrsaLyynxkT4odt",
-    "hkVMWyhz33LrrXiyU9xatLwd3D6LsjgEDhEhqGRfsfuhQ4ozudeADoQMSaePby1dZjgMEzWc1Wx4GJPvRA4osed"
+    "hkVMWyhz33LrrXiyU9xatLwd3D6LsjgEDhEhqGRfsfuhQ4ozudeADoQMSaePby1dZjgMEzWc1Wx4GJPvRA4osed",
+    "3rT86ck7E3XQzbA9NEhojnpmTouEEmDf8CAC4KqtCLpRfDLHfwde7qBu9wdxGafhgYM5HCyJcJJQY8qgjVTaoLuP",
+    "3jpnHW2EHTrrtG51QTHc1oQ43vfWfMDmWiutH2yD25Za7Fpxgh38GKcHgqGCgs3cAHdRYtaDe5ai6kRJHyeAWspe"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -703,18 +705,19 @@
     "UkxL4zpB6Q9pHBhhip8UDmKbNAMRXa56C3326oApump": {
       "mint": "UkxL4zpB6Q9pHBhhip8UDmKbNAMRXa56C3326oApump",
       "first_buy_time": 1791164543,
-      "last_event_time": 1791182603,
-      "buy_count": 3,
+      "last_event_time": 1791192365,
+      "buy_count": 4,
       "sell_count": 1,
-      "total_buy_usd": 100.52822978708464,
-      "total_tokens_bought": 471.324696,
-      "largest_buy_usd": 50.398323508841855,
+      "total_buy_usd": 200.55890195466532,
+      "total_tokens_bought": 833.2248340000001,
+      "largest_buy_usd": 100.03067216758068,
       "sold_tokens": 215.145281,
       "sold_usd": 49.63534902933891,
       "buy_sigs": [
         "bZdehTMDWaXrLG724bu1o9RHLair1hCVHCSruri5VGPioRmXynMLiXCoZJxzmtS2P6w3h9BbWokzV5UEpkR7eQM",
         "27yNLLjpRtKdjvZsxxutt7QHJLsutjwUTxgjtHpptWeEG8bEje3W496YGK7guW9oaXXyxwBAyxySSYmuJ133QfFF",
-        "4p2dsCeS6LTNessFGSi2rVMwpUmXkfEqLdBV2FRvfnxFkmCnDU6yHLXZj5cNGTZzwmTfUYCtPk1GMmY1mLS9X2Fk"
+        "4p2dsCeS6LTNessFGSi2rVMwpUmXkfEqLdBV2FRvfnxFkmCnDU6yHLXZj5cNGTZzwmTfUYCtPk1GMmY1mLS9X2Fk",
+        "3rT86ck7E3XQzbA9NEhojnpmTouEEmDf8CAC4KqtCLpRfDLHfwde7qBu9wdxGafhgYM5HCyJcJJQY8qgjVTaoLuP"
       ],
       "sell_sigs": [
         "5GcMCFLjSVSRKm5x2XXnuUuhYf4TjzpbuHfcu4NBYMbp7gKFSw1w9DkfHCidyBvY4fw8RfUyfKHdyamBFcr88SMF"
@@ -769,7 +772,7 @@
     "xrb6oe7Er6xS6ji3eJ4bNMRYuRKDd4uick37AHdpump:PASS": 1791177120
   },
   "created_at": 1790957541,
-  "last_run_ts": 1791191800,
-  "last_cycle_new_signatures": 1,
-  "last_cycle_ts": 1791191800
+  "last_run_ts": 1791193154,
+  "last_cycle_new_signatures": 3,
+  "last_cycle_ts": 1791193154
 }
