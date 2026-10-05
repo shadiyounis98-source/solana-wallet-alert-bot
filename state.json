@@ -265,7 +265,9 @@
     "3jpnHW2EHTrrtG51QTHc1oQ43vfWfMDmWiutH2yD25Za7Fpxgh38GKcHgqGCgs3cAHdRYtaDe5ai6kRJHyeAWspe",
     "4S7LWJrbbCdHT6nPMM8hJnTBNcGdReNRLNNY9KVAuF3k4QWDZoEbvad9bHTwoNzVPFMoqVewFUm14UTuPC4ENCDJ",
     "hZnH13LdajDdWwBrxzxZ9nEU57PQWMBy7aFrKrPRVWAhoQ9KM4w4XwF8waD8pGuVtEJe4JEzep49ongiUCbwQcp",
-    "3SmcmCrDSnFUuRsBurFFuf9oodNYUeREEQ1KaeTsFdvd1vymS2jWgo7RXv32BvFDGPhmuLiSBnhqS2SaUF7CgrjM"
+    "3SmcmCrDSnFUuRsBurFFuf9oodNYUeREEQ1KaeTsFdvd1vymS2jWgo7RXv32BvFDGPhmuLiSBnhqS2SaUF7CgrjM",
+    "41a9Dd5ZuASMpxPJsHr9MuznUJPMVRTpuocjmUpi1nPaWJjDwe3BgLDN4cc4DvjxbRjQTfk8i5z4vS3HuVhZgxW",
+    "4XGUZRbuVRBnYrq74bgU5KsLy5dVQFQBf5C87wJAndyDHpoXUnbMb85KkynVEacFk2Lm8diwytdGof2dANZX1X6D"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -774,21 +776,22 @@
     "RFZRKFb1EwxQscQKRBR1H92mhsPJ5yZeKbvhYV3pump": {
       "mint": "RFZRKFb1EwxQscQKRBR1H92mhsPJ5yZeKbvhYV3pump",
       "first_buy_time": 1791197140,
-      "last_event_time": 1791197140,
-      "buy_count": 1,
+      "last_event_time": 1791198629,
+      "buy_count": 2,
       "sell_count": 0,
-      "total_buy_usd": 5.189798905470154,
-      "total_tokens_bought": 28.705532,
-      "largest_buy_usd": 5.189798905470154,
+      "total_buy_usd": 50.24397197763927,
+      "total_tokens_bought": 265.875596,
+      "largest_buy_usd": 45.054173072169114,
       "sold_tokens": 0.0,
       "sold_usd": 0.0,
       "buy_sigs": [
-        "3SmcmCrDSnFUuRsBurFFuf9oodNYUeREEQ1KaeTsFdvd1vymS2jWgo7RXv32BvFDGPhmuLiSBnhqS2SaUF7CgrjM"
+        "3SmcmCrDSnFUuRsBurFFuf9oodNYUeREEQ1KaeTsFdvd1vymS2jWgo7RXv32BvFDGPhmuLiSBnhqS2SaUF7CgrjM",
+        "41a9Dd5ZuASMpxPJsHr9MuznUJPMVRTpuocjmUpi1nPaWJjDwe3BgLDN4cc4DvjxbRjQTfk8i5z4vS3HuVhZgxW"
       ],
       "sell_sigs": [],
       "created_at": 1791197502,
-      "last_rating": "WATCH",
-      "last_score": 75
+      "last_rating": "PASS",
+      "last_score": 105
     }
   },
   "alerts_sent": {
@@ -810,10 +813,11 @@
     "EtJYqwZLVY3cN2pPeFATSjJKqnUVFcFo8S1Jjgfpump:PASS": 1791168183,
     "nfjQVkuF5FVLYbgegH3kyLWbV5SaKXHLuumF26xpump:PASS": 1791171510,
     "UkxL4zpB6Q9pHBhhip8UDmKbNAMRXa56C3326oApump:PASS": 1791171511,
-    "xrb6oe7Er6xS6ji3eJ4bNMRYuRKDd4uick37AHdpump:PASS": 1791177120
+    "xrb6oe7Er6xS6ji3eJ4bNMRYuRKDd4uick37AHdpump:PASS": 1791177120,
+    "RFZRKFb1EwxQscQKRBR1H92mhsPJ5yZeKbvhYV3pump:PASS": 1791199381
   },
   "created_at": 1790957541,
-  "last_run_ts": 1791198172,
-  "last_cycle_new_signatures": 0,
-  "last_cycle_ts": 1791198172
+  "last_run_ts": 1791199381,
+  "last_cycle_new_signatures": 2,
+  "last_cycle_ts": 1791199381
 }
