@@ -362,7 +362,8 @@
     "45kvzHgCuk74t3MWNW6Uynok8u6yrJs2kVZuWeUBLTj65uRp5mzTkExdcbKV5LXLnVVdbySxYpeo4ECCGE2Hzgrg",
     "3tr9aRAP2TqmbFh9R36Zw6pn1vt6zxUFnuSy438tPXYrifZUex3HKqRZNumXsgq95sEUDJZX7BSJ1U8D28XQ7Y2P",
     "2iiPo8uujsUDnoQQGCTqMoZKnCS2X8vuNrK4yjjrz5vWFPQyEqw2M78rtTLg3V7FsKbvo6HJY8m8JL2ThT3tszYx",
-    "3X7nAPxYED8N6wXZ2SSnsZZ3SC4ZgUUFym6F9hKFQbWzaygqgrNtkprXJPnqNWCDSjke1q3dDCBHSU2iomwQJ25g"
+    "3X7nAPxYED8N6wXZ2SSnsZZ3SC4ZgUUFym6F9hKFQbWzaygqgrNtkprXJPnqNWCDSjke1q3dDCBHSU2iomwQJ25g",
+    "4upsZt3h9UAgUMgVfuKwX4gLHwdC6tpWNHKo19BqfB66hEBkTZo7XrYSFDW8PhvT9vTSX8EpY3GWwVVEkP7y69Na"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -1000,14 +1001,14 @@
     "Ph1ie3e4aMXCEVCjTcTzkyVhTRC7k9kpkq5MKSUpump": {
       "mint": "Ph1ie3e4aMXCEVCjTcTzkyVhTRC7k9kpkq5MKSUpump",
       "first_buy_time": 1791252593,
-      "last_event_time": 1791295974,
+      "last_event_time": 1791315278,
       "buy_count": 6,
-      "sell_count": 1,
+      "sell_count": 2,
       "total_buy_usd": 350.8323760813205,
       "total_tokens_bought": 1499.7141040000001,
       "largest_buy_usd": 100.14338397255365,
-      "sold_tokens": 1103.8275700000002,
-      "sold_usd": 424.7239708722401,
+      "sold_tokens": 1311.2420230000002,
+      "sold_usd": 523.5178688877393,
       "buy_sigs": [
         "37rwdRG5GXbbxrvhF5sKVm3gQLZbRQgcM5rJVNjBomNYXdiozqHyXAeNbnwKads6MHJ8fjfGS1bvwSdMczuJnDzK",
         "4ZwR75jLQG5DEerhTz1BVA66VrZ2PG6Jt2Mm3MkTMPExBbNU4VpNLEqErSkLdnVp4aMR9Ecj85HRjmgUJHMzaXme",
@@ -1017,7 +1018,8 @@
         "3X7nAPxYED8N6wXZ2SSnsZZ3SC4ZgUUFym6F9hKFQbWzaygqgrNtkprXJPnqNWCDSjke1q3dDCBHSU2iomwQJ25g"
       ],
       "sell_sigs": [
-        "4Gkn1gzzm7GFPBk4rELF4Yga5bT1e84y4DYswVcPF1pkMVhcLNYRceQQGmciMYyEp61o9uC5LzegSd9og321zdQx"
+        "4Gkn1gzzm7GFPBk4rELF4Yga5bT1e84y4DYswVcPF1pkMVhcLNYRceQQGmciMYyEp61o9uC5LzegSd9og321zdQx",
+        "4upsZt3h9UAgUMgVfuKwX4gLHwdC6tpWNHKo19BqfB66hEBkTZo7XrYSFDW8PhvT9vTSX8EpY3GWwVVEkP7y69Na"
       ],
       "created_at": 1791253124,
       "last_rating": "NO ENTRY",
@@ -1198,7 +1200,7 @@
     "fFyqBSfAx3B88MMCCpjAwEB3q3UFozn5385snpYpump:PASS": 1791264916
   },
   "created_at": 1790957541,
-  "last_run_ts": 1791314868,
-  "last_cycle_new_signatures": 0,
-  "last_cycle_ts": 1791314868
+  "last_run_ts": 1791315855,
+  "last_cycle_new_signatures": 1,
+  "last_cycle_ts": 1791315855
 }
