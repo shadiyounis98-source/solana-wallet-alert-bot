@@ -1219,8 +1219,8 @@
       ],
       "sell_sigs": [],
       "created_at": 1791329377,
-      "last_rating": "NO ENTRY",
-      "last_score": 5
+      "last_rating": "WATCH",
+      "last_score": 75
     }
   },
   "alerts_sent": {
@@ -1255,7 +1255,7 @@
     "Ja2BLvQBCjUfo6viMQMNbsLKmV8HpunrRCe7oW5pump:PASS": 1791327498
   },
   "created_at": 1790957541,
-  "last_run_ts": 1791329377,
-  "last_cycle_new_signatures": 2,
-  "last_cycle_ts": 1791329377
+  "last_run_ts": 1791330308,
+  "last_cycle_new_signatures": 0,
+  "last_cycle_ts": 1791330308
 }
