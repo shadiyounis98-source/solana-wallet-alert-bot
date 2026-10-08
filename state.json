@@ -468,7 +468,9 @@
     "5rFDP4eQFn5p7AoyD3P45edyoycXKV8vhWrstBt7dPr16qQuqpGLboKnzxp9LiT3DD8ZXbccNWkRsN92H2eP48ph",
     "55R31Bz3rD7chhuPVwfhgQLfAFpB8ZCeKkyAfj1ogzYJe2U6u5g5GVbAbpNtiqoDaqy2pNKnotLkk9EupbCj24uj",
     "2LfNCk2YvXTPCwnnvmeC9Eh9QUugKMbieTLr8W7ZGopUn3TpCaLnLb8Mjb86wdoJJ8AqbjYwRxdYF1U3dJsA5SyX",
-    "3PTnPpsfMycpXpBaCvSWDmLhBnaFqVahN1voCxLsfT1yEmAMYtSQBiFjjdmfAHwtxnAGnTyeh1cVJPSmwaCVSfq9"
+    "3PTnPpsfMycpXpBaCvSWDmLhBnaFqVahN1voCxLsfT1yEmAMYtSQBiFjjdmfAHwtxnAGnTyeh1cVJPSmwaCVSfq9",
+    "2hDbEuvntg1GYiEYuHT3ENBREVAM1n7f17o3jFsyQo1CSxbYmf246UmPbSahajwxKQfoQYLKWpvMgj8hQFt2nPc5",
+    "2s6KZzgTA4sim2qgCMmmMFCVakChhGQKzeLWeximRz1qFXpE2bsgx4onofNTBv9e81iQZ17Wistyrq2gS2vvCyKm"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -1569,21 +1571,23 @@
     "Sd8R2j4kf7eK2ABSFEWyhBWfmJ6PoKu6k43jjRLpump": {
       "mint": "Sd8R2j4kf7eK2ABSFEWyhBWfmJ6PoKu6k43jjRLpump",
       "first_buy_time": 1791463553,
-      "last_event_time": 1791463553,
-      "buy_count": 1,
+      "last_event_time": 1791465348,
+      "buy_count": 3,
       "sell_count": 0,
-      "total_buy_usd": 5.160950580033402,
-      "total_tokens_bought": 32.435112,
-      "largest_buy_usd": 5.160950580033402,
+      "total_buy_usd": 199.89482376522096,
+      "total_tokens_bought": 1144.414228,
+      "largest_buy_usd": 149.70639022942848,
       "sold_tokens": 0.0,
       "sold_usd": 0.0,
       "buy_sigs": [
-        "3PTnPpsfMycpXpBaCvSWDmLhBnaFqVahN1voCxLsfT1yEmAMYtSQBiFjjdmfAHwtxnAGnTyeh1cVJPSmwaCVSfq9"
+        "3PTnPpsfMycpXpBaCvSWDmLhBnaFqVahN1voCxLsfT1yEmAMYtSQBiFjjdmfAHwtxnAGnTyeh1cVJPSmwaCVSfq9",
+        "2hDbEuvntg1GYiEYuHT3ENBREVAM1n7f17o3jFsyQo1CSxbYmf246UmPbSahajwxKQfoQYLKWpvMgj8hQFt2nPc5",
+        "2s6KZzgTA4sim2qgCMmmMFCVakChhGQKzeLWeximRz1qFXpE2bsgx4onofNTBv9e81iQZ17Wistyrq2gS2vvCyKm"
       ],
       "sell_sigs": [],
       "created_at": 1791463710,
-      "last_rating": "NO ENTRY",
-      "last_score": 5
+      "last_rating": "PASS",
+      "last_score": 115
     }
   },
   "alerts_sent": {
@@ -1629,10 +1633,11 @@
     "LZzfqAxBTPDzZ2cQs36ZLdkY9RFQcKFkwysV7jzpump:PASS": 1791414736,
     "ZLWMhDEM7gfCJajTqnx3S7Zxfaj1LtQkok6APvjpump:PASS": 1791418159,
     "J87xSnJVKJxE8tseW2xpq84DzBCZobXoADZhusNpump:PASS": 1791425257,
-    "BdHJj3wQkDgzBaU8aKftnHKZF2SrVvPr3wPMKDBpump:PASS": 1791427252
+    "BdHJj3wQkDgzBaU8aKftnHKZF2SrVvPr3wPMKDBpump:PASS": 1791427252,
+    "Sd8R2j4kf7eK2ABSFEWyhBWfmJ6PoKu6k43jjRLpump:PASS": 1791466208
   },
   "created_at": 1790957541,
-  "last_run_ts": 1791464806,
-  "last_cycle_new_signatures": 0,
-  "last_cycle_ts": 1791464806
+  "last_run_ts": 1791466208,
+  "last_cycle_new_signatures": 2,
+  "last_cycle_ts": 1791466208
 }
