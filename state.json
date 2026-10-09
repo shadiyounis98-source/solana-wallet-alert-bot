@@ -544,7 +544,10 @@
     "5yVLTnuKLbB2SsVcBF4zy8TNhG7ssxnb6RNduGuUY9TyLUvDtKpXWsFYWoP4GRw2NcKc2euNi6aFsXfixK1CJWjY",
     "4iogDVswYso74nbavzCsNNMjqAdsw72RiU1dN3cHDPSjyJGeWXNUj7fRFbyNfr4GbZvrAmaAFK1hUWeRaxzvDEAN",
     "3MBhf1wE7TZT9PtV3dfhmxZG8wxBG7BKbQT68GgKy3vYnRM7o1tSpTrq1uKLpgghDiXTgLRDz6YHwk5ggjKZiS95",
-    "KiWHbucUZZh9DSBwqKmHR151VW9VNZULYbbF2ZA47a1PUDdCCjC6DkPthtJ6gr7G4erfJHH949SLgMtormGr1pB"
+    "KiWHbucUZZh9DSBwqKmHR151VW9VNZULYbbF2ZA47a1PUDdCCjC6DkPthtJ6gr7G4erfJHH949SLgMtormGr1pB",
+    "24T79KYdSpBZNAYWB3eSxayN9wDQtbNZePBJemW7ZAtfvKpFuTKdTzERPXqPzTCTvseMhajXAGMWracf3hVmXFma",
+    "2djdwt2ixV37RWvu1bqfrnqPwYndnn7CNKsXFCmkggfcq99ZVnusmJyAUD9FQtDqz8dyiXa1asDrRZGN3mzurmnZ",
+    "3957Dioo1YfgnuFR6ke8AvDvx46Bujkk2kk3MVzBbq359tjv2Y8uUtbwRLjPUBnnw2gbvaXtbcaboyv7cxZ4AQNw"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -1843,14 +1846,14 @@
     "jmPbUtnPpKUWgDDicW14WxvW5vvbw5sdrNknHULpump": {
       "mint": "jmPbUtnPpKUWgDDicW14WxvW5vvbw5sdrNknHULpump",
       "first_buy_time": 1791553923,
-      "last_event_time": 1791564741,
-      "buy_count": 8,
-      "sell_count": 0,
-      "total_buy_usd": 500.0227369622838,
-      "total_tokens_bought": 1436.975018,
-      "largest_buy_usd": 100.00381405612146,
-      "sold_tokens": 0.0,
-      "sold_usd": 0.0,
+      "last_event_time": 1791568440,
+      "buy_count": 10,
+      "sell_count": 1,
+      "total_buy_usd": 900.3420672656291,
+      "total_tokens_bought": 2468.799214,
+      "largest_buy_usd": 200.18363915931073,
+      "sold_tokens": 1436.975018,
+      "sold_usd": 548.6932663433604,
       "buy_sigs": [
         "5ZVub15xeU4oKGXTTjpgddsPx1ZVeAATdd4ZfC2NA5qGex5GQFCpuebdd2e2E8CTbMsnBUzvy9oThcqtoG9jEcb3",
         "3o9GBVVii46Q4D77mQ46ZJN1Mh3uSZuG8RwfpmsxnUc1Su4G5zrvWUntVTw5gwiLk79j7TRZNQp5jMAfFBKsKQ5o",
@@ -1859,12 +1862,16 @@
         "52czdGmCKkpB1Rc9bD6CNPXQjCku8WdvbqWmhk53pWcC1J7BgidZGxeM9KYTH5RQ2jXUnLHtWwYDop83Eo9bS3fR",
         "2ovkqEmgwkbK1ncb8SMoa7DitmKQT2VS5C2eHX51fahMcqf8f3qfdjz8B4hbNEDUnGrtdEWAUC6tGXtwHqwYu76y",
         "3tPeXB13Gt4tiBvoTy2HtVyH6httts4xzNY5GazqypQjxMHmW2mFvNU42qqUrbLwDKC9Uqeo9MBoX5Hgw43mJ8MZ",
-        "5UiawcPwAVseTdtgMNKVNPBjjcs1n6EQEHPsstoPvbVLMtyJbhVXC92y3CGPovcMuKZpfCXb6TCB2bMPvvGj3YtA"
+        "5UiawcPwAVseTdtgMNKVNPBjjcs1n6EQEHPsstoPvbVLMtyJbhVXC92y3CGPovcMuKZpfCXb6TCB2bMPvvGj3YtA",
+        "2djdwt2ixV37RWvu1bqfrnqPwYndnn7CNKsXFCmkggfcq99ZVnusmJyAUD9FQtDqz8dyiXa1asDrRZGN3mzurmnZ",
+        "3957Dioo1YfgnuFR6ke8AvDvx46Bujkk2kk3MVzBbq359tjv2Y8uUtbwRLjPUBnnw2gbvaXtbcaboyv7cxZ4AQNw"
       ],
-      "sell_sigs": [],
+      "sell_sigs": [
+        "24T79KYdSpBZNAYWB3eSxayN9wDQtbNZePBJemW7ZAtfvKpFuTKdTzERPXqPzTCTvseMhajXAGMWracf3hVmXFma"
+      ],
       "created_at": 1791554572,
-      "last_rating": "PASS",
-      "last_score": 115
+      "last_rating": "WATCH",
+      "last_score": 55
     },
     "h4XXM9wwHcTjB5kskQBZj4tWGvH73hxC9UX2h8apump": {
       "mint": "h4XXM9wwHcTjB5kskQBZj4tWGvH73hxC9UX2h8apump",
@@ -1968,7 +1975,7 @@
     "Fma6uekox2j85ZWAaDdQgoN7YRBQZkVyNnjz8UPpump:PASS": 1791566767
   },
   "created_at": 1790957541,
-  "last_run_ts": 1791567777,
-  "last_cycle_new_signatures": 0,
-  "last_cycle_ts": 1791567777
+  "last_run_ts": 1791568664,
+  "last_cycle_new_signatures": 3,
+  "last_cycle_ts": 1791568664
 }
