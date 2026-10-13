@@ -790,7 +790,8 @@
     "43FmjuTEKaYupA2jutSFa3WthEHm838AkGDB9FDXMkMTJuSRU8zCUqcfCndcxMyUPaKVkWKgGxssZimTiwx7iHRn",
     "388QRByPTs98thasrz13eKmx3asgM1XgDH12Hm9XvL24TLUdjyN5n5JddiALL1uJy3BkwwMs23sq3c5LMgxYgJGK",
     "65YDkYBSax4RV9qycPGf6ydXbzuYzaLeFyQAdAUX68ohiLT1taF3GmRJ3MXxd5SxafkFY6x516ZLjVLY8iE3k7eP",
-    "4JGe5uSmqByqKS8XHrUHMceuxrcuvD6fv1n3xaeSF3nM29914FpofPJ8YRpZREWm4rJ4u1GV1cudjTpMEDCePaYz"
+    "4JGe5uSmqByqKS8XHrUHMceuxrcuvD6fv1n3xaeSF3nM29914FpofPJ8YRpZREWm4rJ4u1GV1cudjTpMEDCePaYz",
+    "5vFkms8ecGfMkCpV4CWZgM3UZtUcW4TnGe2uJ74Tfz6kpQT4t5hH3iUV9BgePDFnrEb9iNgK831Aq9GQAi594sHe"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -2695,21 +2696,22 @@
     "a6kCSESFqKNkSum5a9dciUYqjpUWAMMBwnkKVpGpump": {
       "mint": "a6kCSESFqKNkSum5a9dciUYqjpUWAMMBwnkKVpGpump",
       "first_buy_time": 1791895436,
-      "last_event_time": 1791895436,
-      "buy_count": 1,
+      "last_event_time": 1791896926,
+      "buy_count": 2,
       "sell_count": 0,
-      "total_buy_usd": 5.156280340466024,
-      "total_tokens_bought": 193.137545,
-      "largest_buy_usd": 5.156280340466024,
+      "total_buy_usd": 50.41326275715965,
+      "total_tokens_bought": 1871.632637,
+      "largest_buy_usd": 45.256982416693624,
       "sold_tokens": 0.0,
       "sold_usd": 0.0,
       "buy_sigs": [
-        "4JGe5uSmqByqKS8XHrUHMceuxrcuvD6fv1n3xaeSF3nM29914FpofPJ8YRpZREWm4rJ4u1GV1cudjTpMEDCePaYz"
+        "4JGe5uSmqByqKS8XHrUHMceuxrcuvD6fv1n3xaeSF3nM29914FpofPJ8YRpZREWm4rJ4u1GV1cudjTpMEDCePaYz",
+        "5vFkms8ecGfMkCpV4CWZgM3UZtUcW4TnGe2uJ74Tfz6kpQT4t5hH3iUV9BgePDFnrEb9iNgK831Aq9GQAi594sHe"
       ],
       "sell_sigs": [],
       "created_at": 1791896567,
-      "last_rating": "WATCH",
-      "last_score": 75
+      "last_rating": "PASS",
+      "last_score": 105
     }
   },
   "alerts_sent": {
@@ -2785,10 +2787,11 @@
     "vxrdH5tMQ6CSBj5dmagYuh9LJrJPw5YUwqeMU9upump:PASS": 1791823391,
     "NDPVWujdkiE1F1MPUBSZ24enhx3yqYhqA4gfsSvpump:PASS": 1791831368,
     "AbQwhERAhxyGe1hSKE3FNY5dxwMakz4PbEsYaEUpump:PASS": 1791831369,
-    "oziyCWx2vqZQLDFPoZTJ6jE9NJAz7KyDHWkF2sapump:PASS": 1791874704
+    "oziyCWx2vqZQLDFPoZTJ6jE9NJAz7KyDHWkF2sapump:PASS": 1791874704,
+    "a6kCSESFqKNkSum5a9dciUYqjpUWAMMBwnkKVpGpump:PASS": 1791898213
   },
   "created_at": 1790957541,
-  "last_run_ts": 1791896568,
+  "last_run_ts": 1791898213,
   "last_cycle_new_signatures": 3,
-  "last_cycle_ts": 1791896568
+  "last_cycle_ts": 1791898213
 }
