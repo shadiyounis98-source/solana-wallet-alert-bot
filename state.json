@@ -875,7 +875,9 @@
     "24LtzA3L4CdLMmZP9tBo2xw3h7tmSkxfF2jtA6YiaEvpYmX2ctq77v9iQbJBisU42CRVVKjjrPkiVqixjtSMQjug",
     "3YERvjjn4moJEVBtvhvkEb7EYt9C8zyTkNaJLhp5WNKXU3GKCEGrjgcrJKN6tSc5N12Q4AMuvNsYbdeTQP5DTBUm",
     "3NGrH9K7zVeyskWy342EeLDyoV9p4EZoVDdMDWDyePn4sPEuqsmEZHh9nAjxybcsih1LdCzNQNihp5qYHy54VWNe",
-    "3Hy9JBsPXKabYYVzNiZVhx9y5ZZozSucGy39XMSdUZ9kQaRvV1u1ypkem3PxVHL8rkii2rBGdtPx3h93QzVfnit8"
+    "3Hy9JBsPXKabYYVzNiZVhx9y5ZZozSucGy39XMSdUZ9kQaRvV1u1ypkem3PxVHL8rkii2rBGdtPx3h93QzVfnit8",
+    "4MLdk2K8kvCXAKUBfjUP5w5hyitDz8sLTVcE2Trr6nzcSZozjcPxc1qHpKp47Hkt8BejRyb35yYrSHgQbNCJ4htx",
+    "2hdsVxw8z4e6qU1ELWYbdpXEe8au4zpDJDzJ1fpbvK4Jy93xMn2TUS6dUiHdJZhR2B8DLHXGvnuVJDCtBJzLiGGB"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -2991,6 +2993,26 @@
       "created_at": 1791948924,
       "last_rating": "NO ENTRY",
       "last_score": 20
+    },
+    "5T3P5PLnfm9Phx6wsoeBnGRzhwTfE8ZTCZ7JcQFpump": {
+      "mint": "5T3P5PLnfm9Phx6wsoeBnGRzhwTfE8ZTCZ7JcQFpump",
+      "first_buy_time": 1792067680,
+      "last_event_time": 1792069116,
+      "buy_count": 2,
+      "sell_count": 0,
+      "total_buy_usd": 50.19841606944949,
+      "total_tokens_bought": 334.979416,
+      "largest_buy_usd": 45.0512520204348,
+      "sold_tokens": 0.0,
+      "sold_usd": 0.0,
+      "buy_sigs": [
+        "4MLdk2K8kvCXAKUBfjUP5w5hyitDz8sLTVcE2Trr6nzcSZozjcPxc1qHpKp47Hkt8BejRyb35yYrSHgQbNCJ4htx",
+        "2hdsVxw8z4e6qU1ELWYbdpXEe8au4zpDJDzJ1fpbvK4Jy93xMn2TUS6dUiHdJZhR2B8DLHXGvnuVJDCtBJzLiGGB"
+      ],
+      "sell_sigs": [],
+      "created_at": 1792069965,
+      "last_rating": "PASS",
+      "last_score": 105
     }
   },
   "alerts_sent": {
@@ -3073,10 +3095,11 @@
     "fh54FEH5VYQXs9gf7WUwcrcahfuJYRbSJrEjVNSpump:PASS": 1791945458,
     "dcbmga5FtpbdeqU2SQy12die2GFM1SnnAQTDHJRpump:PASS": 1791947145,
     "Ep4fZSbxz2ZjMmPxtiCh6VyUcK8V1rwE3pTrNjgpump:PASS": 1791947151,
-    "Y5AW42YoGR2tWKmSmKjdLyVvttwu8r54ea1v6KSpump:PASS": 1791948925
+    "Y5AW42YoGR2tWKmSmKjdLyVvttwu8r54ea1v6KSpump:PASS": 1791948925,
+    "5T3P5PLnfm9Phx6wsoeBnGRzhwTfE8ZTCZ7JcQFpump:PASS": 1792069966
   },
   "created_at": 1790957541,
-  "last_run_ts": 1792067045,
-  "last_cycle_new_signatures": 1,
-  "last_cycle_ts": 1792067045
+  "last_run_ts": 1792069966,
+  "last_cycle_new_signatures": 3,
+  "last_cycle_ts": 1792069966
 }
