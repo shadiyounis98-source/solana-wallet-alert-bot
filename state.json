@@ -864,7 +864,8 @@
     "3WBrUvq95JK41TJ8ktXKRSqHcuvf1e2qj8tBcXtiXGo9NS6FruJnyUW6SvXPdcdX31WCuPrNHcUSfieQeHj4QJKA",
     "43gZVjwPZjtqTWre7wzhS9pYewy1x4M4ijWZw5BxEdkANTaUWKMnKTFbLxYSaXpmoAHtKfUWCTbfvmTHsM29vnnP",
     "c7M7rvsYdWW28TrEN69uaJht1BsFdzdkz84BAvPv7eCatvMALUHFfnN2Jefc5EnyG79kxLCCQf6o5HEJawtZSHn",
-    "ufA1qN9xc1q9dA4BxVoqKB4pzDNg9AMC1rdgSyG4937utenwhV6t3D4ybGm9RKvbYYjhJ1iHLVrLbpD6A17PCgF"
+    "ufA1qN9xc1q9dA4BxVoqKB4pzDNg9AMC1rdgSyG4937utenwhV6t3D4ybGm9RKvbYYjhJ1iHLVrLbpD6A17PCgF",
+    "5uYEoHGFSRrh8ea8dzq1zEpec4JkjEuEp56FkPMVfFjy8173pX8xc1ej1nMv8izu3GrgrnYp2bh4feZihXx1CSNk"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -2945,14 +2946,14 @@
     "Y5AW42YoGR2tWKmSmKjdLyVvttwu8r54ea1v6KSpump": {
       "mint": "Y5AW42YoGR2tWKmSmKjdLyVvttwu8r54ea1v6KSpump",
       "first_buy_time": 1791948091,
-      "last_event_time": 1792015030,
+      "last_event_time": 1792037108,
       "buy_count": 7,
-      "sell_count": 2,
+      "sell_count": 3,
       "total_buy_usd": 750.4238593166098,
       "total_tokens_bought": 3743.4534489999996,
       "largest_buy_usd": 200.11760100388275,
-      "sold_tokens": 2497.587161,
-      "sold_usd": 530.0541348672681,
+      "sold_tokens": 3743.113544,
+      "sold_usd": 858.5987867788581,
       "buy_sigs": [
         "3qhwcRvq5UXLY7RSQPdHP2KsDEiaRBVKYJRhNLYZV4LuPMpjQvFHJNoSDc5bBUsJhtDGfyhx8PCAaBRjkrSNQmt2",
         "AiBTGbZhm5ce2NWBqiQqWzvRW2avhnbPi7SMmdekf2WVUTntWjmefBYhNkZS4dbB4jpXVZ9r7AgA7Un5YkEQJRe",
@@ -2964,11 +2965,12 @@
       ],
       "sell_sigs": [
         "5VTQqTJwUnmgTEbZSiCxDpJJYEPNDmmTtaZs3FQ4HKfvPQqdch7U3RpHkCQYEKB8Q261Z3zJrTTwFS6twjpCvWhF",
-        "33i9yo7MfXG9dZYQ4ieUMWTkEZa3dZuKSPPQ74KGKgfD9WvQNekhfsnG2QQV1tBMYyV7nTU8L4T7HfUiv94Ca8pr"
+        "33i9yo7MfXG9dZYQ4ieUMWTkEZa3dZuKSPPQ74KGKgfD9WvQNekhfsnG2QQV1tBMYyV7nTU8L4T7HfUiv94Ca8pr",
+        "5uYEoHGFSRrh8ea8dzq1zEpec4JkjEuEp56FkPMVfFjy8173pX8xc1ej1nMv8izu3GrgrnYp2bh4feZihXx1CSNk"
       ],
       "created_at": 1791948924,
-      "last_rating": "WATCH",
-      "last_score": 55
+      "last_rating": "NO ENTRY",
+      "last_score": 70
     }
   },
   "alerts_sent": {
@@ -3054,7 +3056,7 @@
     "Y5AW42YoGR2tWKmSmKjdLyVvttwu8r54ea1v6KSpump:PASS": 1791948925
   },
   "created_at": 1790957541,
-  "last_run_ts": 1792036247,
-  "last_cycle_new_signatures": 0,
-  "last_cycle_ts": 1792036247
+  "last_run_ts": 1792037778,
+  "last_cycle_new_signatures": 1,
+  "last_cycle_ts": 1792037778
 }
