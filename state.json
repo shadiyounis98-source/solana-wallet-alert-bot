@@ -926,7 +926,9 @@
     "27qmLvbG58UkgJFBQrZ4XvA8GkFp3xcQzgfhZb2BrH9cqVmHtvt1LjDaPTmT7yhUrffk3ekt35jnsR5Szo5uj1pM",
     "2ac4kAxQxxgm1QDcP4GwGwgwfXjDnmnQpNKaFPjSLU9a2g42mMWMqfpXQrFkGcGP2DJH4g5MZsRqsR4pRFRVnnsK",
     "3sZq5U32QUmkJs8QGYG9hiKX1hmy6PvWTudHuEC6Pz1nWM9jV8PD59abBmD3e1YpDrhL6zDmmTE5Rtgc61KZF4HC",
-    "5y3dF8m2mmzJm9xMhXPVEpvFHn9pTyns9nC676aQU5paNH1pkw5Zbs2PRBMB5smeu6sCPo6nY4L3Wpx35Hcb3ZYy"
+    "5y3dF8m2mmzJm9xMhXPVEpvFHn9pTyns9nC676aQU5paNH1pkw5Zbs2PRBMB5smeu6sCPo6nY4L3Wpx35Hcb3ZYy",
+    "dedocnppYoeu66hYWmQxMrkBPEXBaCrJuRNvnSSpCymFyvgfJpVQC1saS8wUhiYS7edk87WpDLYPSdELGVK8mT2",
+    "3Q1i5iyygC4ZkJMbi4xLhAx4WdUFqzsEJRi9wap4oymUgC6puRvjiouRRtRt9P2i1ZMwF8AsMBJM7yToh7qxXkQf"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -3187,18 +3189,19 @@
     "KTU49spRCyKRWHfKcjSLxr4ir2yZrbvL6QK7gzGpump": {
       "mint": "KTU49spRCyKRWHfKcjSLxr4ir2yZrbvL6QK7gzGpump",
       "first_buy_time": 1792116856,
-      "last_event_time": 1792123658,
-      "buy_count": 3,
+      "last_event_time": 1792131908,
+      "buy_count": 4,
       "sell_count": 0,
-      "total_buy_usd": 200.21752702832944,
-      "total_tokens_bought": 1238.09775,
+      "total_buy_usd": 300.9269080885254,
+      "total_tokens_bought": 1810.582182,
       "largest_buy_usd": 150.00798075645835,
       "sold_tokens": 0.0,
       "sold_usd": 0.0,
       "buy_sigs": [
         "WUpyeqp6Nahig5XrNCsL4smVQvRLgRrBLCSt2LWMekA78Qu1Jgj7VXrD9qbTXdxvayLktohiCK32M1jp8oyg92J",
         "5T3FgnS9PK7Q9qQUtUSnTCroUsvnAkCccgJn66LcWjWZS6qRBHSCAfDyk71hj73Dg7XKUhHQvcNtYgECPiUVefY7",
-        "p6yNK2GCZDYqyD5MXg9o8it4R3XzjMSueLgyd5e8iExJqdya49StHyb58ukxo8ta59gaQf11qwDYmQgurBU7C6t"
+        "p6yNK2GCZDYqyD5MXg9o8it4R3XzjMSueLgyd5e8iExJqdya49StHyb58ukxo8ta59gaQf11qwDYmQgurBU7C6t",
+        "3Q1i5iyygC4ZkJMbi4xLhAx4WdUFqzsEJRi9wap4oymUgC6puRvjiouRRtRt9P2i1ZMwF8AsMBJM7yToh7qxXkQf"
       ],
       "sell_sigs": [],
       "created_at": 1792118871,
@@ -3295,7 +3298,7 @@
     "wNi42pCNbMN25XP6J2iS6cNjXG7nwpnesxJ5ANwpump:PASS": 1792124082
   },
   "created_at": 1790957541,
-  "last_run_ts": 1792131224,
-  "last_cycle_new_signatures": 1,
-  "last_cycle_ts": 1792131224
+  "last_run_ts": 1792133933,
+  "last_cycle_new_signatures": 2,
+  "last_cycle_ts": 1792133933
 }
