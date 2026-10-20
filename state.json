@@ -3880,26 +3880,6 @@
       "last_rating": "WATCH",
       "last_score": 55
     },
-    "UibXDZMeu9ATbwZcvLicJt1bqZSGcgW6LerXkB9pump": {
-      "mint": "UibXDZMeu9ATbwZcvLicJt1bqZSGcgW6LerXkB9pump",
-      "first_buy_time": 1792390393,
-      "last_event_time": 1792390448,
-      "buy_count": 2,
-      "sell_count": 0,
-      "total_buy_usd": 50.17245322832828,
-      "total_tokens_bought": 324.469899,
-      "largest_buy_usd": 45.01154014450298,
-      "sold_tokens": 0.0,
-      "sold_usd": 0.0,
-      "buy_sigs": [
-        "3boZp1HJanZ3LRZPFtKiYndVMuFaa3276MuzhAN3rh64eWeBabUCbszgBkfFgvzQWBRbCiCMk2kNYxcASrnSLQ7A",
-        "2bJ8SorQejb3XD9JVvhSTcZ7nm1ei2WTTBsrJkiPCPMEEjERezNU1fFspmjF8GRrC3GRVG7LW8oxDfY43pXj3H2V"
-      ],
-      "sell_sigs": [],
-      "created_at": 1792392882,
-      "last_rating": "NO ENTRY",
-      "last_score": -10
-    },
     "k1hrnH27hJzsrJtFirKabtih7rSnaZoRvkKfEACpump": {
       "mint": "k1hrnH27hJzsrJtFirKabtih7rSnaZoRvkKfEACpump",
       "first_buy_time": 1792392058,
@@ -4107,7 +4087,7 @@
     "TucJYav7CURwWVYdBu7fhoaSQHkqaLqtjJCFyxApump:PASS": 1792466125
   },
   "created_at": 1790957541,
-  "last_run_ts": 1792475524,
-  "last_cycle_new_signatures": 2,
-  "last_cycle_ts": 1792475524
+  "last_run_ts": 1792476977,
+  "last_cycle_new_signatures": 1,
+  "last_cycle_ts": 1792476977
 }
