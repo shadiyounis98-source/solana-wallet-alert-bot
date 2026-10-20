@@ -1140,7 +1140,14 @@
     "5gkm4YiCqcKyPKroW9ATAnFP88DpH8ZcDnmogoJ2BbvQPpSJdC4eNr5JtK2Y1E3d3bcLDJEEuTBwJ1yTyf9B1d4b",
     "Extak2ZjL1hNE41EnzMqT6r25gxeiXn3J4P9XwhRcKKBBZNynn6VrEJrRV9qt6ttxFiYo6UiuT4wPMam1FBndGo",
     "j2TfecU5qbNHs8f2qJNoq6tGUuduewqC5AwsGLSHkohXZ7SfdGpnPyV8u7X6eYtbro4Ywj23EfV8jxTneUScxS1",
-    "3wUkTQKnUYohMjcMNtziZ21RSctrTt1L7Bk8WVRp2NdgY2pwsNnGFCxZRit31fSv99swgLetcaQWGvAv5Dfc4DNi"
+    "3wUkTQKnUYohMjcMNtziZ21RSctrTt1L7Bk8WVRp2NdgY2pwsNnGFCxZRit31fSv99swgLetcaQWGvAv5Dfc4DNi",
+    "3MPwTaNWMusfwqgxzNoUCaEhvts9cdqnAFm6zafiCixtFr1Tvn6zddw8xqgB4WQ29sVbBJjggJ7XcVegkvHft5Zd",
+    "2qHLBQr7NBqEjT29tRvszjDLMVZE4NHRnfS7wGL54LkfjfVa3W8aofqNSFiXa8sBKLfixSg3ZacfU8H6314Vohxg",
+    "5YRFRBPrMH9iN7JzAhe7NrStmJRN91cZH4kby6rWF5hWAEa6AZnmcvaLT1a1HYoUUtsoWPJmcuAaM5X59fcbNnJP",
+    "5WGCKVEAZNpT1fT8gEjAMXZRVgAsKPMnXjC96Jj8xNW88CaR5b3kgXtLPn7zC2cxtZDAYZmMK3EVrTzadNtNevV2",
+    "1D5bZk1LJXo3AMViUKMse59K2HPWybWHTnvJhwbPePs6ggy5LGBp9gtcfHnAN9m3TVCypBaWrifNZ4nwVg4SYrQ",
+    "3UPL5XXEwzGXfmkcHeyhLsm6Wj3iumWLs57QUqZ4CSehumnPyjTWeztcirshUX53J37fi85upKfRFHSLyMfXGdE8",
+    "E5G6aEoFSDn5n9N39gMM3CkVz3zqAMz7YCRpVYtUxbZiMpXoRan4ucj8nYTewSVrta8AecG5vAt2ehfHaFhvsYx"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -3828,12 +3835,12 @@
     "ctJ2i4k7xcoKp6Tovb6AXSsC4AtLVJiTkfbd2GMpump": {
       "mint": "ctJ2i4k7xcoKp6Tovb6AXSsC4AtLVJiTkfbd2GMpump",
       "first_buy_time": 1792390107,
-      "last_event_time": 1792449844,
-      "buy_count": 6,
+      "last_event_time": 1792466087,
+      "buy_count": 7,
       "sell_count": 2,
-      "total_buy_usd": 397.41347910072625,
-      "total_tokens_bought": 609.13846,
-      "largest_buy_usd": 99.07508660150664,
+      "total_buy_usd": 497.3701790415432,
+      "total_tokens_bought": 728.484096,
+      "largest_buy_usd": 99.95669994081697,
       "sold_tokens": 609.05872,
       "sold_usd": 451.1856143165692,
       "buy_sigs": [
@@ -3842,15 +3849,16 @@
         "481caknMmAYWKo5FtRnYB1dnE5Fq1PQJscM33Vt2KLQRXW7zC2m2oC8y9DACW1uaoPhxzQMNjdvjycL1jVJq5fLc",
         "3w8hwDP55BRKgUSbaNmWNJaemfksGzPhhULDcFBDq5zX4FFjhSEUmsCqqRPKMiokv8VAE1kkx3R8bThsTjuc1A3f",
         "4JwGiHp5ZzHiTqFrDuzbMJmt1tq6Hmhz1EaYoQ3NsHDUT3bPTJ6Xt8HwymHeWxxmNR7QLxtymnfHAcwjfSBasT11",
-        "4xifPUSNFQ6M6VGFEjsygLTMr1QDQ63WCgqhkt4W5PPmJs6rvV2xdnZUz1oysLyn9aTP47Wn6FXGRHjs6tJ671q4"
+        "4xifPUSNFQ6M6VGFEjsygLTMr1QDQ63WCgqhkt4W5PPmJs6rvV2xdnZUz1oysLyn9aTP47Wn6FXGRHjs6tJ671q4",
+        "E5G6aEoFSDn5n9N39gMM3CkVz3zqAMz7YCRpVYtUxbZiMpXoRan4ucj8nYTewSVrta8AecG5vAt2ehfHaFhvsYx"
       ],
       "sell_sigs": [
         "5Dz6xEuDXqhPGTv7BJBtT3u6x5FACQjqxc9rXUV89SXPziBoXo8gZCuhp33JRU5FmRQzecxNRb5RrXJm1UVT8Wm1",
         "2UZhfEZZCTEriw4V4hyc7iJ5Ns8X5nKp9ZDJhK3Rrb8SyP3fvXctPdAUfknbFvWGdYnG6TJjDtrdZvdpsCy1kn1x"
       ],
       "created_at": 1792390213,
-      "last_rating": "NO ENTRY",
-      "last_score": 105
+      "last_rating": "WATCH",
+      "last_score": 55
     },
     "UibXDZMeu9ATbwZcvLicJt1bqZSGcgW6LerXkB9pump": {
       "mint": "UibXDZMeu9ATbwZcvLicJt1bqZSGcgW6LerXkB9pump",
@@ -3875,11 +3883,11 @@
     "k1hrnH27hJzsrJtFirKabtih7rSnaZoRvkKfEACpump": {
       "mint": "k1hrnH27hJzsrJtFirKabtih7rSnaZoRvkKfEACpump",
       "first_buy_time": 1792392058,
-      "last_event_time": 1792449863,
-      "buy_count": 8,
+      "last_event_time": 1792466044,
+      "buy_count": 9,
       "sell_count": 2,
-      "total_buy_usd": 698.0390286813363,
-      "total_tokens_bought": 3893.6895010000003,
+      "total_buy_usd": 797.9542560296105,
+      "total_tokens_bought": 4297.314712,
       "largest_buy_usd": 149.94185669724027,
       "sold_tokens": 3893.4069710000003,
       "sold_usd": 807.067931029383,
@@ -3891,7 +3899,8 @@
         "54VGRaDPVDb4FXJqZeLRLirT6gTXwrPuBiTeC9BFUNDdwGbHZbv9RAUzPHfcaRk14bkQGkSQoT6yLKqpPBrMaf1c",
         "4FdjxgxHK3f3vBnBFsqdPpER4n5HAwBEDwZMXRHnsV26ZsDfUKMaCZ9TjA3esGDM4sZ7b2BcgKgTL5wzY6Cqvz1Q",
         "5pXKbyXuFRNr9PucymDc7SGzWnXrZpvp1u9J6RPV4fA5s5cunWydsoeK5u4HquwXxe4xc5tNQFqHS4PSXJNycW3a",
-        "3JSzTRoHjqSnV1esBtzMVqeu6AahgN35wCZDmjWoZEkRLTvFz9e6DhEs6z8chwRhkC7qxp3n8s5E2gx9PpmkcMu8"
+        "3JSzTRoHjqSnV1esBtzMVqeu6AahgN35wCZDmjWoZEkRLTvFz9e6DhEs6z8chwRhkC7qxp3n8s5E2gx9PpmkcMu8",
+        "3UPL5XXEwzGXfmkcHeyhLsm6Wj3iumWLs57QUqZ4CSehumnPyjTWeztcirshUX53J37fi85upKfRFHSLyMfXGdE8"
       ],
       "sell_sigs": [
         "3RueqD25XGQAqHKU5jQ6nzCE3FWEDZVyjeYwf5ERSJbK3xHp8fuMhcmT14bjCMDA99Prb4dZgtQrdg674EzMVEKW",
@@ -3899,64 +3908,69 @@
       ],
       "created_at": 1792392883,
       "last_rating": "NO ENTRY",
-      "last_score": 70
+      "last_score": 20
     },
     "TucJYav7CURwWVYdBu7fhoaSQHkqaLqtjJCFyxApump": {
       "mint": "TucJYav7CURwWVYdBu7fhoaSQHkqaLqtjJCFyxApump",
       "first_buy_time": 1792458244,
-      "last_event_time": 1792458244,
-      "buy_count": 1,
+      "last_event_time": 1792465799,
+      "buy_count": 3,
       "sell_count": 0,
-      "total_buy_usd": 5.121281736445145,
-      "total_tokens_bought": 89.690641,
-      "largest_buy_usd": 5.121281736445145,
+      "total_buy_usd": 100.08974387944895,
+      "total_tokens_bought": 1670.270736,
+      "largest_buy_usd": 49.96253526360821,
       "sold_tokens": 0.0,
       "sold_usd": 0.0,
       "buy_sigs": [
-        "Extak2ZjL1hNE41EnzMqT6r25gxeiXn3J4P9XwhRcKKBBZNynn6VrEJrRV9qt6ttxFiYo6UiuT4wPMam1FBndGo"
+        "Extak2ZjL1hNE41EnzMqT6r25gxeiXn3J4P9XwhRcKKBBZNynn6VrEJrRV9qt6ttxFiYo6UiuT4wPMam1FBndGo",
+        "5YRFRBPrMH9iN7JzAhe7NrStmJRN91cZH4kby6rWF5hWAEa6AZnmcvaLT1a1HYoUUtsoWPJmcuAaM5X59fcbNnJP",
+        "1D5bZk1LJXo3AMViUKMse59K2HPWybWHTnvJhwbPePs6ggy5LGBp9gtcfHnAN9m3TVCypBaWrifNZ4nwVg4SYrQ"
       ],
       "sell_sigs": [],
       "created_at": 1792458921,
-      "last_rating": "WATCH",
-      "last_score": 75
+      "last_rating": "PASS",
+      "last_score": 115
     },
     "yeV8QgPNA7CbCvN5sjqtyDx84sGrsEEhXc4ViLspump": {
       "mint": "yeV8QgPNA7CbCvN5sjqtyDx84sGrsEEhXc4ViLspump",
       "first_buy_time": 1792458544,
-      "last_event_time": 1792458544,
-      "buy_count": 1,
+      "last_event_time": 1792465131,
+      "buy_count": 2,
       "sell_count": 0,
-      "total_buy_usd": 5.130326211601905,
-      "total_tokens_bought": 89.614532,
-      "largest_buy_usd": 5.130326211601905,
+      "total_buy_usd": 50.12638870011817,
+      "total_tokens_bought": 773.7312490000002,
+      "largest_buy_usd": 44.996062488516266,
       "sold_tokens": 0.0,
       "sold_usd": 0.0,
       "buy_sigs": [
-        "j2TfecU5qbNHs8f2qJNoq6tGUuduewqC5AwsGLSHkohXZ7SfdGpnPyV8u7X6eYtbro4Ywj23EfV8jxTneUScxS1"
+        "j2TfecU5qbNHs8f2qJNoq6tGUuduewqC5AwsGLSHkohXZ7SfdGpnPyV8u7X6eYtbro4Ywj23EfV8jxTneUScxS1",
+        "3MPwTaNWMusfwqgxzNoUCaEhvts9cdqnAFm6zafiCixtFr1Tvn6zddw8xqgB4WQ29sVbBJjggJ7XcVegkvHft5Zd"
       ],
       "sell_sigs": [],
       "created_at": 1792458922,
-      "last_rating": "NO ENTRY",
-      "last_score": 5
+      "last_rating": "PASS",
+      "last_score": 105
     },
     "MFgq2fX5egVFd5xKsQkjr7PNfF3PcaLWnnv7Nvmpump": {
       "mint": "MFgq2fX5egVFd5xKsQkjr7PNfF3PcaLWnnv7Nvmpump",
       "first_buy_time": 1792460262,
-      "last_event_time": 1792460262,
-      "buy_count": 1,
+      "last_event_time": 1792465778,
+      "buy_count": 3,
       "sell_count": 0,
-      "total_buy_usd": 5.180168512562205,
-      "total_tokens_bought": 32.995537,
-      "largest_buy_usd": 5.180168512562205,
+      "total_buy_usd": 100.17299550572014,
+      "total_tokens_bought": 572.545302,
+      "largest_buy_usd": 49.963870880585304,
       "sold_tokens": 0.0,
       "sold_usd": 0.0,
       "buy_sigs": [
-        "3wUkTQKnUYohMjcMNtziZ21RSctrTt1L7Bk8WVRp2NdgY2pwsNnGFCxZRit31fSv99swgLetcaQWGvAv5Dfc4DNi"
+        "3wUkTQKnUYohMjcMNtziZ21RSctrTt1L7Bk8WVRp2NdgY2pwsNnGFCxZRit31fSv99swgLetcaQWGvAv5Dfc4DNi",
+        "2qHLBQr7NBqEjT29tRvszjDLMVZE4NHRnfS7wGL54LkfjfVa3W8aofqNSFiXa8sBKLfixSg3ZacfU8H6314Vohxg",
+        "5WGCKVEAZNpT1fT8gEjAMXZRVgAsKPMnXjC96Jj8xNW88CaR5b3kgXtLPn7zC2cxtZDAYZmMK3EVrTzadNtNevV2"
       ],
       "sell_sigs": [],
       "created_at": 1792460965,
-      "last_rating": "WATCH",
-      "last_score": 75
+      "last_rating": "PASS",
+      "last_score": 115
     }
   },
   "alerts_sent": {
@@ -4061,10 +4075,13 @@
     "HJJw6867qx7PfEiqPggWEvFqeiK4tZsfs8qqGAupump:PASS": 1792332056,
     "UqKdoi5weuXCsm384ssJWAXkeEXgQDC13gHq4QEpump:PASS": 1792386546,
     "ctJ2i4k7xcoKp6Tovb6AXSsC4AtLVJiTkfbd2GMpump:PASS": 1792390214,
-    "k1hrnH27hJzsrJtFirKabtih7rSnaZoRvkKfEACpump:PASS": 1792392884
+    "k1hrnH27hJzsrJtFirKabtih7rSnaZoRvkKfEACpump:PASS": 1792392884,
+    "yeV8QgPNA7CbCvN5sjqtyDx84sGrsEEhXc4ViLspump:PASS": 1792466124,
+    "MFgq2fX5egVFd5xKsQkjr7PNfF3PcaLWnnv7Nvmpump:PASS": 1792466125,
+    "TucJYav7CURwWVYdBu7fhoaSQHkqaLqtjJCFyxApump:PASS": 1792466125
   },
   "created_at": 1790957541,
-  "last_run_ts": 1792464448,
-  "last_cycle_new_signatures": 0,
-  "last_cycle_ts": 1792464448
+  "last_run_ts": 1792466126,
+  "last_cycle_new_signatures": 7,
+  "last_cycle_ts": 1792466126
 }
