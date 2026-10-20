@@ -1159,7 +1159,8 @@
     "5qsVg3rm6EFwo5Sfa6KDeERBsaTEoTSW6fFPcb6pHyryWvJMx6QjFjpAqywT8jrfw6xMh9JQvvRFaEvTEcgPnbnC",
     "5Gpqz6o7uDL4KUXyniCWrfEasKBxLG4fhT3BsypxG44UEccH8CTGycAXS69UqED2fb6muBQEQWUjH6afoBCHa1ix",
     "2GKjyTeunpzyC7CV4F5ctdikuSTdUvGmpRtQqjyuPd2bZz1P59NmBB68WPE7f5uZ4sqiqX3BrK4MUadfotzXLETS",
-    "4EHdgWNRut5J6zzV5F41AEYamrYuBoAh5RSg2jmZT833sW1R1qphjQZ9yuRoAbMeMVmXvpy4P3wfjSAtEQMrXcCd"
+    "4EHdgWNRut5J6zzV5F41AEYamrYuBoAh5RSg2jmZT833sW1R1qphjQZ9yuRoAbMeMVmXvpy4P3wfjSAtEQMrXcCd",
+    "5Xid1uJKMxU6A3EBdgci1HGzPB4vk2hDz74r23L2tydk83nzuyBtwoR6fcihC1XGopDxLdmLdU3ZQ8TyzWkFVCf6"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -3977,11 +3978,11 @@
     "MFgq2fX5egVFd5xKsQkjr7PNfF3PcaLWnnv7Nvmpump": {
       "mint": "MFgq2fX5egVFd5xKsQkjr7PNfF3PcaLWnnv7Nvmpump",
       "first_buy_time": 1792460262,
-      "last_event_time": 1792467675,
-      "buy_count": 4,
+      "last_event_time": 1792474405,
+      "buy_count": 5,
       "sell_count": 0,
-      "total_buy_usd": 200.18409524996727,
-      "total_tokens_bought": 1111.351001,
+      "total_buy_usd": 300.12669854897257,
+      "total_tokens_bought": 1576.502095,
       "largest_buy_usd": 100.01109974424713,
       "sold_tokens": 0.0,
       "sold_usd": 0.0,
@@ -3989,7 +3990,8 @@
         "3wUkTQKnUYohMjcMNtziZ21RSctrTt1L7Bk8WVRp2NdgY2pwsNnGFCxZRit31fSv99swgLetcaQWGvAv5Dfc4DNi",
         "2qHLBQr7NBqEjT29tRvszjDLMVZE4NHRnfS7wGL54LkfjfVa3W8aofqNSFiXa8sBKLfixSg3ZacfU8H6314Vohxg",
         "5WGCKVEAZNpT1fT8gEjAMXZRVgAsKPMnXjC96Jj8xNW88CaR5b3kgXtLPn7zC2cxtZDAYZmMK3EVrTzadNtNevV2",
-        "3iD86u8CN8nA25mAxBRUPs7aPqTsZj9sFX3cMaQHWf1HYisukDntNSMVWPqD6vwiVSuK5iguxuj3xVWnRBxuwz34"
+        "3iD86u8CN8nA25mAxBRUPs7aPqTsZj9sFX3cMaQHWf1HYisukDntNSMVWPqD6vwiVSuK5iguxuj3xVWnRBxuwz34",
+        "5Xid1uJKMxU6A3EBdgci1HGzPB4vk2hDz74r23L2tydk83nzuyBtwoR6fcihC1XGopDxLdmLdU3ZQ8TyzWkFVCf6"
       ],
       "sell_sigs": [],
       "created_at": 1792460965,
@@ -4105,7 +4107,7 @@
     "TucJYav7CURwWVYdBu7fhoaSQHkqaLqtjJCFyxApump:PASS": 1792466125
   },
   "created_at": 1790957541,
-  "last_run_ts": 1792473484,
-  "last_cycle_new_signatures": 1,
-  "last_cycle_ts": 1792473484
+  "last_run_ts": 1792475524,
+  "last_cycle_new_signatures": 2,
+  "last_cycle_ts": 1792475524
 }
