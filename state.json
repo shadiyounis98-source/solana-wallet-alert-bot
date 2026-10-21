@@ -1176,7 +1176,8 @@
     "51ZopcgzhMDhJJ8MWP7pD1yy5MRHSdtqnidkbsGi67gHUm5M1NqyKv9DFQ47Yc6hQEpTpSHCo9N2n4vrsDzgy2PM",
     "2gkjjKdqW7CqbPp3Y93CphPjVSUXgVBgBAsX2aFfuAnYLiegzXVXuzARP98KyDoxWeUeUYvEj4JPjG7qYgTpGKy7",
     "3gk2NNQpFtV4mnuE16yH2vf8fdGAfprW11RejekTt9uxkgd3ehbKRxdayiAVxPhbogTCjgo1JGE12zK8sShiegzA",
-    "2oNPx6g7GuzZtj9kmAxG1W6jWEsn4YUJAFaykxUbrKw3PfPw4a6VUQhKfrgnwVCW4ddsMN4RmN1TQy5fJSAavVe4"
+    "2oNPx6g7GuzZtj9kmAxG1W6jWEsn4YUJAFaykxUbrKw3PfPw4a6VUQhKfrgnwVCW4ddsMN4RmN1TQy5fJSAavVe4",
+    "5qiC6TRZbB4dKCNinYnuv7seqgFMkgXyAperFrbGemX2oX2eJxVhXF3g3bbjR4waZdUp1QnoFU5Je3aM8tRpYPkf"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -4142,7 +4143,7 @@
     "WeKoqUt3DiQhr25PDohmy5oU8PEwK2ekJtinLpJpump:PASS": 1792490231
   },
   "created_at": 1790957541,
-  "last_run_ts": 1792549265,
+  "last_run_ts": 1792551301,
   "last_cycle_new_signatures": 1,
-  "last_cycle_ts": 1792549265
+  "last_cycle_ts": 1792551301
 }
