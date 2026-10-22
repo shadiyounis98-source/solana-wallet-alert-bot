@@ -1263,7 +1263,8 @@
     "3SUA4FwPDCBPmF1AKYQQPGP1LF4WRQ3csR7kz3ECFHP5H5p2JwVpZd5RXkew1a45XY93UrkC5tqtzK1id6P6v6yJ",
     "5MaEhtBYkjxC5kMWZkqeZFvsLTKjzw8oSk33BCCRoSB3AToCrMrspVtehYapWvtJX6LYimvr9tsz7UPTPjMsrGEy",
     "4u3Sq64jccoXXe8acRaD4RDK8FVY19D58qpE5BVm9v91edhsSWXfbTYYLoFxn8crfWHyboHhE6SrxvaggHKhJKMQ",
-    "39qiKy16oLAXeueanhLbsri4ZC3dSwBX1WGD9hyUsoyKMkUSf1n1eh5bQyCxHR7B7HnjcQgHDZafDyhoYeAhNuM3"
+    "39qiKy16oLAXeueanhLbsri4ZC3dSwBX1WGD9hyUsoyKMkUSf1n1eh5bQyCxHR7B7HnjcQgHDZafDyhoYeAhNuM3",
+    "MnXZugGaVCWjYdjbjw4L22qqeZYn8NTLY9ugfD1ri6PKsVLp5vF47uKkAv1ik9Y8dy5DKryR9AweCt4NKhjyp5f"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -4288,25 +4289,26 @@
     "g22PMViZFFRBHMrrPyf1S2CYSQ16QXnBibzWqWCpump": {
       "mint": "g22PMViZFFRBHMrrPyf1S2CYSQ16QXnBibzWqWCpump",
       "first_buy_time": 1792669102,
-      "last_event_time": 1792686152,
-      "buy_count": 3,
+      "last_event_time": 1792695375,
+      "buy_count": 4,
       "sell_count": 1,
-      "total_buy_usd": 100.17753830833466,
-      "total_tokens_bought": 632.880316,
-      "largest_buy_usd": 50.08895634063769,
+      "total_buy_usd": 199.96277104126162,
+      "total_tokens_bought": 1218.525813,
+      "largest_buy_usd": 99.78523273292696,
       "sold_tokens": 632.326333,
       "sold_usd": 103.0391904828864,
       "buy_sigs": [
         "52F56hCv924FMB519iU5TyvaA4UjXegoHE4cYQ7dLeGDEeE4jSt5uMN4P263eqVVPnyMAcoWX1oLxJS2zPi2xWWM",
         "qAmwjZ8pdLEaGBeznWUwWSxD3DEZNBVf2htnRnu1jdnWrCjAe9fM1qSkSgNMRW4jEYwF8rtZtoPKdFXEc8e7L3A",
-        "5ZXNEprzZ13orGJACofkKgyCDLafJpGDmqUReh61oFWfEGW7gw8fPZUyyTSGcnCZek6siZos3U2rwoC2qCRYEQvE"
+        "5ZXNEprzZ13orGJACofkKgyCDLafJpGDmqUReh61oFWfEGW7gw8fPZUyyTSGcnCZek6siZos3U2rwoC2qCRYEQvE",
+        "MnXZugGaVCWjYdjbjw4L22qqeZYn8NTLY9ugfD1ri6PKsVLp5vF47uKkAv1ik9Y8dy5DKryR9AweCt4NKhjyp5f"
       ],
       "sell_sigs": [
         "39qiKy16oLAXeueanhLbsri4ZC3dSwBX1WGD9hyUsoyKMkUSf1n1eh5bQyCxHR7B7HnjcQgHDZafDyhoYeAhNuM3"
       ],
       "created_at": 1792669155,
-      "last_rating": "NO ENTRY",
-      "last_score": 105
+      "last_rating": "WATCH",
+      "last_score": 55
     }
   },
   "alerts_sent": {
@@ -4424,7 +4426,7 @@
     "g22PMViZFFRBHMrrPyf1S2CYSQ16QXnBibzWqWCpump:PASS": 1792671165
   },
   "created_at": 1790957541,
-  "last_run_ts": 1792694302,
-  "last_cycle_new_signatures": 1,
-  "last_cycle_ts": 1792694302
+  "last_run_ts": 1792696649,
+  "last_cycle_new_signatures": 2,
+  "last_cycle_ts": 1792696649
 }
