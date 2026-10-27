@@ -1435,7 +1435,8 @@
     "2vXJLbXouQMyaV8kN1LmdmS5T8zeJgXZjrtPYW7nmr1Xzhn2QokAt31NxwSRZhi6EQ3GMev8qfFRkfMk9utBFSfy",
     "3CHM1QoZRf2Hjynf9WeLrCWGJHD46MZFHqAwt1y7FxDkx7wzNdJvNPcAn5xjUfvHyTrmVZWeG6B7JFxGLeJ8W7NV",
     "5oXU26WjqTqS2fUo2S9Dp5X4zL46chyMuciipS5L9wnaoWVvcN2idFcWVxHaYdVZwcxanVNjdziTL7dWAWfVGsVQ",
-    "24DxTzki3Q6MgH7xap7hFoMv8wHwcyQEqezNfhDau7i42ywA7GGpetpNv7rKgzgMzadRjK1LmZMoriWiSVqKi5o2"
+    "24DxTzki3Q6MgH7xap7hFoMv8wHwcyQEqezNfhDau7i42ywA7GGpetpNv7rKgzgMzadRjK1LmZMoriWiSVqKi5o2",
+    "4duCggtooFMXn5gQV1H728Pk4U5NXR7hgJ9eFbQgcNFjoUjZBNh2dt9nvrhBr7bTd557St9itJGorJCoWEY2Hg4v"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -4895,24 +4896,25 @@
     "WoWVTqfQh1AWnmBxUnSUJ5DSFQUc8NdB3SkB4tCpump": {
       "mint": "WoWVTqfQh1AWnmBxUnSUJ5DSFQUc8NdB3SkB4tCpump",
       "first_buy_time": 1793070753,
-      "last_event_time": 1793073483,
-      "buy_count": 2,
+      "last_event_time": 1793080451,
+      "buy_count": 3,
       "sell_count": 1,
-      "total_buy_usd": 50.14800095346765,
-      "total_tokens_bought": 330.980308,
-      "largest_buy_usd": 44.99517843701441,
+      "total_buy_usd": 100.14030231114538,
+      "total_tokens_bought": 646.440951,
+      "largest_buy_usd": 49.992301357677725,
       "sold_tokens": 330.732512,
       "sold_usd": 49.71354774509112,
       "buy_sigs": [
         "4QqTgv7hmgz5QtFocoLpLMXqqPuDzY4asooxgyjTC3PFme9b299SomS1Q8PVxQQcarCNuDPUXjb67wyhqL68RFcD",
-        "3nyRyzfVj8B8UNb8NJXBQPYi85wmeKqPYTNU74zYq7WkDcW9P4EF6P7TQkxJWDgDJAiB9HHX769KHARFVVsuWmfv"
+        "3nyRyzfVj8B8UNb8NJXBQPYi85wmeKqPYTNU74zYq7WkDcW9P4EF6P7TQkxJWDgDJAiB9HHX769KHARFVVsuWmfv",
+        "4duCggtooFMXn5gQV1H728Pk4U5NXR7hgJ9eFbQgcNFjoUjZBNh2dt9nvrhBr7bTd557St9itJGorJCoWEY2Hg4v"
       ],
       "sell_sigs": [
         "5tXMPMNsUFxzs3sw94qgbL4iyhwPb9VXrF1sym7sQ6hkcAyJWLy4zMboMntKpuYfteGxD74d9bFPuvGSDni2kpyH"
       ],
       "created_at": 1793070764,
       "last_rating": "NO ENTRY",
-      "last_score": 90
+      "last_score": 50
     },
     "Scggeaa35yRbqqh8eGdNwZCfXX54vFTddBojt4Spump": {
       "mint": "Scggeaa35yRbqqh8eGdNwZCfXX54vFTddBojt4Spump",
@@ -5083,7 +5085,7 @@
     "zzuSHMPNGEDawZHfsw5rwya74Eo5FcJ4yHVaMC7pump:PASS": 1793074800
   },
   "created_at": 1790957541,
-  "last_run_ts": 1793078699,
+  "last_run_ts": 1793080798,
   "last_cycle_new_signatures": 1,
-  "last_cycle_ts": 1793078699
+  "last_cycle_ts": 1793080798
 }
