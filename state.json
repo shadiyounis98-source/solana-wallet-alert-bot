@@ -5742,26 +5742,6 @@
       "last_rating": "NO ENTRY",
       "last_score": 90
     },
-    "kYnEDNBDtGhFLtop5xMWE1f1aDFAmDs1M18ahXfpump": {
-      "mint": "kYnEDNBDtGhFLtop5xMWE1f1aDFAmDs1M18ahXfpump",
-      "first_buy_time": 1793436049,
-      "last_event_time": 1793437505,
-      "buy_count": 2,
-      "sell_count": 0,
-      "total_buy_usd": 5.149497914683543,
-      "total_tokens_bought": 4.177474,
-      "largest_buy_usd": 4.502796691090652,
-      "sold_tokens": 0.0,
-      "sold_usd": 0.0,
-      "buy_sigs": [
-        "B2D6bsaEMHMF73MmVC6ut31SQQq5PSn6qA4KtiPfHi4zndVHAoxt9EERc6oJT91Kgwy4dUFUzzyFfGbhDNsEfLW",
-        "2ieGK4dTLKkt8zrQVuSceavF4T28f9Rm2ubWue64HQSjtMHmZQ7baXJSUrnXnLS4XrfTjpZrAxUTKzyKgMx6w2rg"
-      ],
-      "sell_sigs": [],
-      "created_at": 1793439736,
-      "last_rating": "NO ENTRY",
-      "last_score": -25
-    },
     "YEyrfdLbq38T7QF13KxtR2Y4CdKBBdNnfyZDVWspump": {
       "mint": "YEyrfdLbq38T7QF13KxtR2Y4CdKBBdNnfyZDVWspump",
       "first_buy_time": 1793438032,
@@ -6004,7 +5984,7 @@
     "vLGjx5uB3Ahqzaaeia1UC9SHCYs84ADd53AYdgepump:PASS": 1793282391
   },
   "created_at": 1790957541,
-  "last_run_ts": 1793521254,
+  "last_run_ts": 1793524060,
   "last_cycle_new_signatures": 7,
-  "last_cycle_ts": 1793521254
+  "last_cycle_ts": 1793524060
 }
