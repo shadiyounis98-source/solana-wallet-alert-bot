@@ -5811,105 +5811,6 @@
       "last_rating": "NO ENTRY",
       "last_score": 90
     },
-    "YB7owSQ99uxfP69Q18ZKU54EaWxyQZEYzJZMwUzpump": {
-      "mint": "YB7owSQ99uxfP69Q18ZKU54EaWxyQZEYzJZMwUzpump",
-      "first_buy_time": 1793759488,
-      "last_event_time": 1793759596,
-      "buy_count": 2,
-      "sell_count": 0,
-      "total_buy_usd": 21.315777447360677,
-      "total_tokens_bought": 26.490515,
-      "largest_buy_usd": 20.664579794484272,
-      "sold_tokens": 0.0,
-      "sold_usd": 0.0,
-      "buy_sigs": [
-        "3ZprX9xvNSEAsJQ4W9D3wewGrjRu6Kopqf5UoZH4Kmn6oBsjSA3FyDGvXL731FCo4uHC4wjDznd2fG6LDw1hL7dB",
-        "2ZRAkn3WSCxfWAXgfnduSeGqoTQuMHn8nBQ3r41jNKAYrTbu2cDQDEdJgZ5SMqEayfSfEHvxz6RSNgtFfykhDVkX"
-      ],
-      "sell_sigs": [],
-      "created_at": 1793778535,
-      "last_rating": "NO ENTRY",
-      "last_score": -35
-    },
-    "U44U81bZQHZqpSGqc2cDnagPAeheoMtjZZGdeTJpump": {
-      "mint": "U44U81bZQHZqpSGqc2cDnagPAeheoMtjZZGdeTJpump",
-      "first_buy_time": 1793760256,
-      "last_event_time": 1793760256,
-      "buy_count": 1,
-      "sell_count": 0,
-      "total_buy_usd": 0.651030296994529,
-      "total_tokens_bought": 3.786565,
-      "largest_buy_usd": 0.651030296994529,
-      "sold_tokens": 0.0,
-      "sold_usd": 0.0,
-      "buy_sigs": [
-        "4bXDqyscj4xBN4ByfhZPod2FcCCmNNoJQZhhnbNSfSnJwZDbT917EZvHraB6Qb5GTtpFrzMKTJMTRgjmMp5e2a46"
-      ],
-      "sell_sigs": [],
-      "created_at": 1793778536,
-      "last_rating": "NO ENTRY",
-      "last_score": -50
-    },
-    "bk4kZRkLLrP6xpkZhUsyKb7dGvTRGHJVFu1CHiKpump": {
-      "mint": "bk4kZRkLLrP6xpkZhUsyKb7dGvTRGHJVFu1CHiKpump",
-      "first_buy_time": 1793763169,
-      "last_event_time": 1793763169,
-      "buy_count": 1,
-      "sell_count": 0,
-      "total_buy_usd": 0.6582380486212774,
-      "total_tokens_bought": 3389.964896,
-      "largest_buy_usd": 0.6582380486212774,
-      "sold_tokens": 0.0,
-      "sold_usd": 0.0,
-      "buy_sigs": [
-        "ofz1vAvd1itDVeBwWadn3Sno5cVZd1ZrRBd4ErUvEA5eqxtohPn9N6xqryxU9ZXt3K7gzeNPLv3tQaCaMTokx9d"
-      ],
-      "sell_sigs": [],
-      "created_at": 1793778557,
-      "last_rating": "WATCH",
-      "last_score": 75
-    },
-    "SDaNBEw2uaWZJy7xZYAQDauJcHRt3DgN5M8EE5Epump": {
-      "mint": "SDaNBEw2uaWZJy7xZYAQDauJcHRt3DgN5M8EE5Epump",
-      "first_buy_time": 1793765818,
-      "last_event_time": 1793765992,
-      "buy_count": 1,
-      "sell_count": 1,
-      "total_buy_usd": 0.6480380227362837,
-      "total_tokens_bought": 3.962532,
-      "largest_buy_usd": 0.6480380227362837,
-      "sold_tokens": 3.96253200000001,
-      "sold_usd": 2.3243298649966793,
-      "buy_sigs": [
-        "66MnCFutDNB4nKSy4JpgrLCAbcR5cJeZu7NZS2MXnoCn5wvstGipTUdXnQBbqfeNXLNPhF57SSFqNgZ8dv9T1XTK"
-      ],
-      "sell_sigs": [
-        "3feV9L7tmzRqXhezjUW9f4C61xEtkA3LZx5R4QPkv4SJMzWinekcQn3fSAkPNbPiPm3zwVgs94bsr193sYZpiY3W"
-      ],
-      "created_at": 1793778579,
-      "last_rating": "NO ENTRY",
-      "last_score": 5
-    },
-    "G5zZb8KYBFGJm9QG5H2Hxa97wMRh1GRpgytmyaDpump": {
-      "mint": "G5zZb8KYBFGJm9QG5H2Hxa97wMRh1GRpgytmyaDpump",
-      "first_buy_time": 1793781287,
-      "last_event_time": 1793782726,
-      "buy_count": 2,
-      "sell_count": 0,
-      "total_buy_usd": 5.327035949399166,
-      "total_tokens_bought": 35.505853,
-      "largest_buy_usd": 4.663333295967545,
-      "sold_tokens": 0.0,
-      "sold_usd": 0.0,
-      "buy_sigs": [
-        "6uAEetV8Cvc6YAgPXYJzuDot1Sk5UMG3kjtVSumTB57VTyZk3k4RoRL8vQ3zK6sAVGFXmkaqPeo4hMZdrkLsadS",
-        "rQ8chgD18ck1etifSe8XaVELNHbxg8QD8FjL5RjgAmnstb7ocwS2i7g5Cn7MoXcEQhvojdfMW28crrYLBzDRJRE"
-      ],
-      "sell_sigs": [],
-      "created_at": 1793807521,
-      "last_rating": "NO ENTRY",
-      "last_score": 35
-    },
     "wAtGLwZqJAsShscEkMki2DxiWfGfkz1XkwXdUj3pump": {
       "mint": "wAtGLwZqJAsShscEkMki2DxiWfGfkz1XkwXdUj3pump",
       "first_buy_time": 1793805948,
@@ -6092,7 +5993,7 @@
     "vLGjx5uB3Ahqzaaeia1UC9SHCYs84ADd53AYdgepump:PASS": 1793282391
   },
   "created_at": 1790957541,
-  "last_run_ts": 1793843359,
-  "last_cycle_new_signatures": 16,
-  "last_cycle_ts": 1793843359
+  "last_run_ts": 1793867884,
+  "last_cycle_new_signatures": 10,
+  "last_cycle_ts": 1793867884
 }
