@@ -2364,7 +2364,13 @@
     "4PXjBRKhKGZG2iuGLxE2VxxkWdt8HUVdGHAvWDza6Uw6Aps3RHNP4Pnke7sjYu5JqNrY1pM1fFuBaW3GYvxJ2dCi",
     "5dPTZxn3wMUcMfPo8ZpegD8jmgcDMnai76uQgbHZM8Sj4d63RqayR8AAQJ9K3GRuc8oJJkK4iJniNBtBkM9D87kR",
     "3yL1Lm7o8uViuLGENPZ8MMV6TQ6JKc1XfbGV6CX3MzuhMGmVfXJ4Zbqj4NR1WTThU8YNxEwbauj2KnbrshuxmTVs",
-    "4tpfwnseiHGADan8dBEoi3EgvQu5fgKyRGWV4dcx68ojtEgm42miDfy2XiqNvj9CHdKS9nKC4Qe1x5te4t919pNi"
+    "4tpfwnseiHGADan8dBEoi3EgvQu5fgKyRGWV4dcx68ojtEgm42miDfy2XiqNvj9CHdKS9nKC4Qe1x5te4t919pNi",
+    "3pFQAeZSNu9tJ4T4LdGRJzoeJ58PwFgcCdwTVoB9pWV2Hw8ooxSmiuqNxYzDpnHsAGBdWCfi96qr6hkFaaPFtwYQ",
+    "5TqyXrGdaXSV3My4N64HoTxgGYoZvWkbcvp7hwpX8eTUcF37zBRuRQ4kbL3w7581kWib7f55grVGttzFecnQdpm8",
+    "3wEtGiKWiVN1pT4Yx7sEp8L8EHruKL49GNaZKMDMTGf21MxtR8waNCQcstCM1S3YdtTLkvSjPUSRk2H6aaV3eefP",
+    "4A5LFh8CSnzNQJQK6c1MhTAfzheapCXFcyHbzqf1PTGuipdC9CazrUzvj9ZxqGbqaHLaWuck2vAmGPWPEUMH1fuh",
+    "4cU5E1rU99PzfmpxFdCVcxzAaG3m5BoWFMP3dyh8RJs3ET9q9wJdjNHSEQgMjB37tU69zKFGyPD5rWk8heBdZ63U",
+    "5cy1nPSHZYEXSqM98iN5hzGtbW1s61cgCerGBD4cHpbpH1J5JpL4QHarrfPjLkagmPUshV1khJM2P6hfta4NfXz1"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -6137,7 +6143,7 @@
     "vLGjx5uB3Ahqzaaeia1UC9SHCYs84ADd53AYdgepump:PASS": 1793282391
   },
   "created_at": 1790957541,
-  "last_run_ts": 1794672170,
-  "last_cycle_new_signatures": 13,
-  "last_cycle_ts": 1794672170
+  "last_run_ts": 1794688427,
+  "last_cycle_new_signatures": 6,
+  "last_cycle_ts": 1794688427
 }
