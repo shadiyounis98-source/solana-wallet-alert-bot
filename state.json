@@ -2370,7 +2370,17 @@
     "3wEtGiKWiVN1pT4Yx7sEp8L8EHruKL49GNaZKMDMTGf21MxtR8waNCQcstCM1S3YdtTLkvSjPUSRk2H6aaV3eefP",
     "4A5LFh8CSnzNQJQK6c1MhTAfzheapCXFcyHbzqf1PTGuipdC9CazrUzvj9ZxqGbqaHLaWuck2vAmGPWPEUMH1fuh",
     "4cU5E1rU99PzfmpxFdCVcxzAaG3m5BoWFMP3dyh8RJs3ET9q9wJdjNHSEQgMjB37tU69zKFGyPD5rWk8heBdZ63U",
-    "5cy1nPSHZYEXSqM98iN5hzGtbW1s61cgCerGBD4cHpbpH1J5JpL4QHarrfPjLkagmPUshV1khJM2P6hfta4NfXz1"
+    "5cy1nPSHZYEXSqM98iN5hzGtbW1s61cgCerGBD4cHpbpH1J5JpL4QHarrfPjLkagmPUshV1khJM2P6hfta4NfXz1",
+    "ZVgjhUiEHqwdWM97JtHEPRAgGFDoKFdXTqAYWSB94jSZDhJncXbb5SHHGbnzvT6U2x4PkqirPL4iBUEpjUgBupu",
+    "4HzadBfDQ1BFJFs7RMgSxjBjX28hoXgucf5wUFaUEujWoi7y6iMFfFEvMNbeZHZvVm9LEkZFrpYPhPHk8HE2zLbL",
+    "5m1RZBmnJmNx4HxozRajf3KMyA4PijbjuDDiFvzH28Fcg6sLMSEBD6Zfcq1K1Cwvc2xPmK43yDi2s6E1AcSGH27z",
+    "axbvH9ukKHoP4oMxsGiSMAZ9iGcyHjnHXuXrDg8RFnVVqNmDB9HFfuXa6mUPj4DJQZYEJv4CFk6BerR5pdH7N9U",
+    "4uZkSbMd8nSV2nauQmYe8tDHWWcAqrkb2A4thDhFS8BpweWPjDGsFWH9HYJcATXuvPV8X9dgiroFgwCMY5sCCk4c",
+    "3DoEs3q4JqrByBfrmD4VaiGZtLmd3bUWr8rF9TsWDoqbRQ7992WhUfvmZAGVxEk8JpKyM4GUsM6NwYUZEkcq75VD",
+    "2qYxBmsRUJSUqbqfQQVSwmYrqSdmN4J4L1yQajBsRDszkcUojco4Gx1jJUFeKUm6i8CWQ25DpMvq3qo5Qgtxo1QD",
+    "263aWdPZCcohwrSJUtr3hc3Q9UhDfAjL6K6AtqA6ceUrDRzr4mVqx7mC4sqMi7gv65mjcH5khtVrasbkcT1fpGhf",
+    "5pRs95SFhPBkSgiofMtog4cXvPrskLWhh8pjhjcEFRTiE9xHpUe5TMt1uvWnfXsR7RDEZVCSTFsavkPs48zP33UF",
+    "4BKPGrxzTofotFNDXGU1R8aonuYLSw7G1NErAzM6xuEorMHufDt6SojvUXB1LNk3qC4vxMTWVBL8u4XLj8AHmmCM"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -6143,7 +6153,7 @@
     "vLGjx5uB3Ahqzaaeia1UC9SHCYs84ADd53AYdgepump:PASS": 1793282391
   },
   "created_at": 1790957541,
-  "last_run_ts": 1794701505,
-  "last_cycle_new_signatures": 0,
-  "last_cycle_ts": 1794701505
+  "last_run_ts": 1794724317,
+  "last_cycle_new_signatures": 11,
+  "last_cycle_ts": 1794724317
 }
