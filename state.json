@@ -2392,7 +2392,9 @@
     "3VKyK9h22NEP6eLDxrNyfFYZK6oN28ce1SP952jbit1jSg4RcihVRRkf92MwGz5KegrMQ9f8fszj3g8aJaQjH3Zz",
     "3qc2JUiNpM4XAbAKJdimS5NbYuuuhUnkot7dXkBGYtUbWypGn4AJxpKubCKPeqCAGkNSDBYfJmzTR5NxznJHWBay",
     "2wGPW4rUGDpReMbCJKrY9ubJEdWv5NkGrxhEYDEANGHTra6CfEuRGfJE2K3zV426EGURUyeTbQsZX5rkopQXgzDw",
-    "jcKu8szGJ2qg4orUR17aTGriuDy9m1XAfQG98PvLDoMBy8EhtD9yMu8G1hKGaT9UNzEvNH4CoyJMp5kDdg3hemb"
+    "jcKu8szGJ2qg4orUR17aTGriuDy9m1XAfQG98PvLDoMBy8EhtD9yMu8G1hKGaT9UNzEvNH4CoyJMp5kDdg3hemb",
+    "EKvLva4RXSLfCxqkNznW2qgnusXETmZmEWJ2ECkNphTArrtXGUKyTUBfYfmwJ1eeM6aTdoNRugbk2uTMsTZiR39",
+    "5CPQDc7Quei2xc1qekmmyDtW5b3MS4W6v39tzNuDzAzPmJHBocyhnfHHPErsLk5bB6yHhA6tsC6pkft2Xqtgc63M"
   ],
   "candidates": {
     "GUbqYbmZu2CYbha4uVF2merfX2LQYimwegeWmAQpump": {
@@ -6165,7 +6167,7 @@
     "vLGjx5uB3Ahqzaaeia1UC9SHCYs84ADd53AYdgepump:PASS": 1793282391
   },
   "created_at": 1790957541,
-  "last_run_ts": 1795228760,
+  "last_run_ts": 1795255952,
   "last_cycle_new_signatures": 2,
-  "last_cycle_ts": 1795228760
+  "last_cycle_ts": 1795255952
 }
